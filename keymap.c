@@ -17,7 +17,6 @@
 #include QMK_KEYBOARD_H
 #include "muse.h"
 
-
 // Shortcuts
 #define NextTab   LCTL(KC_TAB)
 #define Prevtab   LCTL(LSFT(KC_TAB))
